@@ -4,15 +4,44 @@
   font-style: normal;
   font-variation-settings: "width" 100;
 }
+
 /* Sheared Styles */
-#s {
-  color: #fd6e0a;
+.text-primary {
+  color: #FD6E0A;
+}
+.dark-2 {
+  color: #474747;
+}
+.btn-primary {
+  background: #FD6E0A;
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+  padding: 20px 35px;
+  border: none;
+  border-radius: 5px;
+}
+.section-title {
+  font-size: 35px;
+  font-weight: bold;
+  color: #181818;
+}
+.section-description {
+  font-size: 18px;
+  color: #757575;
+}
+/* Header */
+header {
+  background-image: url('../images/developer.png'), url('../images/header_bg.png');
+  background-repeat: no-repeat;
+  background-position: top left, bottom right;
 }
 /* Navbar */
 nav {
   display: flex;
   align-items: center;
   justify-content: space-between;
+  margin: 20px 200px;
 }
 .nav-title {
   font-weight: 800;
@@ -20,11 +49,29 @@ nav {
 }
 nav ul {
   display: flex;
+  align-items: center;
 }
 nav ul li {
   list-style: none;
+  margin-right: 51px;
 }
 nav ul li a {
   text-decoration: none;
   font-size: 20px;
 }
+/* Banner */
+.banner {
+  display: flex;
+  justify-content: space-between;
+  margin: 0 35px 0 230px;
+}
+.banner-greeting {
+  font-size: 45px;
+  font-weight: 600;
+}
+.banner-title {
+  font-size: 85px;
+  font-weight: bold;
+}
+      /* Main */
+/* About Section */
