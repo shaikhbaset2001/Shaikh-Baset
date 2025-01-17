@@ -6,6 +6,9 @@
 }
 
 /* Sheared Styles */
+.secondary-bg {
+  background-color: #FFF8F3;
+}
 .text-primary {
   color: #FD6E0A;
 }
@@ -73,5 +76,40 @@ nav ul li a {
   font-size: 85px;
   font-weight: bold;
 }
-      /* Main */
+
+    /* Main */
+main {
+  max-width: 1140px;
+  margin: 0 auto;
+}
 /* About Section */
+.about {
+  border-radius: 10px;
+  padding: 120px 140px;
+  text-align: center;
+  margin-top: 130px;
+}
+.about-items {
+  display: flex;
+  justify-content: space-around;
+}
+.about-container {
+  background-color: #fff;
+  border-radius: 5px;
+  margin: 10px;
+}
+.about-item {}
+.item-title {}
+.item-description {
+  font-weight: bold;
+}
+
+/* Skills Section */
+.skills-container {
+  display: flex;
+  gap: 24px;
+}
+.skill {
+  padding: 30px;
+  box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+}
