@@ -145,7 +145,7 @@ main {
   color: #757575;
 }
 .resume-download-cv {
-  margin-top: 50px;
+  margin: 50px 0;
 }
 
 /* Footer */
@@ -153,6 +153,23 @@ footer {
   padding: 130px 230px;
   display: flex;
 }
-.social-icons ul {
-  display: flex;
+.footer-column {
+  width: 50%;
+}
+.footer-column ul {
+  display: inline-flex;
+  gap: 20px;
+  margin: 0;
+  padding: 0;
+}
+footer input[type=text], footer input[type=email], footer textarea{
+  height: 64px;
+  width: 100%;
+  border-radius: 5px;
+  background-color: white;
+  display: block;
+  padding: 10px 20px;
+  margin-bottom: 24px;
+  font-size: 16px;
+  border: none;
 }
