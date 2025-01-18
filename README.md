@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-**AbdulBaset3227/AbdulBaset3227** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**shaikhbaset2001/Shaikh-Baset** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 -😄 Pronouns: ...He/Him
 
--⚡ Fun fact: ...To find me on Linked, Facebook, Twitter, GitHub, or StackOverflow platform search "AbdulBaset3227 <platform_name>"
+-⚡ Fun fact: ...To find me on Linked, Facebook, Twitter, GitHub, or StackOverflow platform search "shaikhbaset2001 <platform_name>"
