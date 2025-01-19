@@ -1,22 +1,14 @@
 ### Hi there 👋
 
+Welcome to **shaikhbaset2001/Shaikh-Baset**! This repository is a showcase of my work and interests in the field of web development.
 
-**shaikhbaset2001/Shaikh-Baset** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here are some key points about me:
 
-Here are some ideas to get you started:
-
--🔭 I’m currently working on ... Web Development (full stack)
-
--🌱 I’m currently learning ... Javascript
-
--👯 I’m looking to collaborate on ...CSS
-
--🤔 I’m looking for help with ...Open source contribution
-
--💬 Ask me about ...Anything
-
--📫 Reach me at: ... shaikhabdulbaset@outlook.com
-
--😄 Pronouns: ...He/Him
-
--⚡ Fun fact: ...To find me on Linked, Facebook, Twitter, GitHub, or StackOverflow platform search "shaikhbaset2001 <platform_name>"
+- 🔭 Currently working on: Full Stack Web Development projects
+- 🌱 Actively learning: Advanced JavaScript techniques
+- 👯 Open to collaboration on: CSS and front-end development projects
+- 🤔 Seeking assistance with: Open Source Contributions
+- 💬 Feel free to ask me about: Any technology-related topics
+- 📫 Contact me at: [shaikhbaset2001@gmail.com](mailto:shaikhbaset2001@gmail.com)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: You can find me on LinkedIn, Facebook, Twitter, GitHub, or StackOverflow by searching for "shaikhbaset2001 <platform_name>"
